@@ -1,0 +1,4 @@
+npm i -g jsdoc
+jsdoc -r ./api ./components ./contexts ./pages ./utils -d ./docs
+
+the documentation will be in the 'docs' directory
